@@ -1,3 +1,8 @@
 body{
-  background-image: url("file:///home/heisenberg/Bureau/dev/WindCSS117/img/Windows95.jpg");
+  background-image: url("img/Windows95.jpg");
+}
+#icoYa{
+  box-sizing: border-box 3px solid black;
+  width: 90px;
+  height: 55px;
 }
